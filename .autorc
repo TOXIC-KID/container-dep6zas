@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "TOXIC-KID",
+  "repo": "container-dep6zas",
+  "name": "TOXIC-KID",
+}
